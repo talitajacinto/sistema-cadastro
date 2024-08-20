@@ -1,0 +1,91 @@
+*{
+    margin: 1;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(-45deg, #beb78f, #c4c1f1, #ffffff);
+}
+
+.title{
+    font-size: 1.8em;
+    margin-bottom: 10%;
+}
+
+#btn{
+    margin-top: 10%;
+    width: 100%;
+    text-align: center;
+}
+
+#btn button{
+    background: linear-gradient(-45deg, #a56767, #ee8b77, #ffffff);
+    width: 10%;
+    height: 40px;
+    border: none;
+    font-size: 1.2em;
+    color: #ffffff;
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+}
+
+#btn button:hover{
+    background: linear-gradient(-45deg, #a36969, #d1a28a, #ffffff);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+    text-align: center;
+    min-width: 280px;
+    border-radius: 22px;
+    padding: 5px;
+    margin: 0px 5550px 12px -5px;
+    list-style: none;
+}
+
+.button{
+    text-align: center;
+}
+
+.button ul{
+    padding-left: 43%;
+}
+
+.botao{
+    background: linear-gradient(-45deg, #b868cc, #d3654f, #ffffff);
+    width: 70%;
+    height: 70px;
+    border: none;
+    font-size: 1.2em;
+    color: #000000;
+    border-radius: 40px;
+    outline: none;
+    cursor: pointer;
+}
+
+.botao:hover{
+    background: linear-gradient(-45deg, #000000, #333130, #ffffff);
+}
+
+input{
+    min-width: 280px;
+    border-radius: 22px;
+    border: 2px #000000 solid;
+    padding: 5px;
+    margin: 0px 0px 12px -5px; 
+}
+
+.espaco{
+    padding-left: 43%;
+
